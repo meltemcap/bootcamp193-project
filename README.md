@@ -1,1 +1,7 @@
-# bootcamp193-project
+#Takım İsmi
+READLYTIC
+#Takım Üyeleri
+
+
+
+
