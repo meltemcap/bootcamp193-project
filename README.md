@@ -126,7 +126,11 @@ Tüm proje planlama ve süreç yönetimi takibimiz trello üzerinden yapılmakta
 **Puan Tamamlama Mantığı** : Sprint 1'de sadece fikir belirleme, kullanıcı analizi, teknoloji seçimi ve proje planlaması gibi hazırlık görevleri yer aldığı için puan 25 olarak belirlenmiştir. Takım değiştirme sonrası oluşan bir grup olduğumuz için sınırlı bir sprint gerçekleştirilmiştir. Projenin genel kapsamı ve ekibimizin kapasitesi göz önüne alınarak toplamda 3 sprint için yaklaşık 150–170 sprint puanlık bir iş yükü planlanmıştır. Bu puanlar görevlerin karmaşıklığı, zaman tahmini ve belirsizlik derecelerine göre belirlenmiş, ekip içinde fikir birliğiyle onaylanmıştır.
 
 **Daily Scrum** : Daily scrum toplantıları genellikle whatsap üzerinden ilerletilmiştir. Genel anlamda neler yaptığımızı ve toplantı planlamalarımızın yer aldığı görüntülere ekteki drive dosyasından ulaşabilirsiniz.
-🔗 [YZTA 193. Grup Ekran Görüntüleri - Google Drive](https://drive.google.com/drive/folders/1X7CJtE7ENwTWRaODsweQlGsEtiUFf27M)
+![Toplantı ekran görüntüsü](https://github.com/user-attachments/assets/9825e28b-7a47-4e9a-a49f-d8cf09a151e0)
+![IMG_20250707_104729](https://github.com/user-attachments/assets/9d8656c2-1b77-4ece-aae5-27472e659724)
+![IMG_20250707_104858](https://github.com/user-attachments/assets/219c5e22-a29a-4d49-abc7-06783af0c12f)
+![IMG_20250707_110111](https://github.com/user-attachments/assets/695bd5d6-ca06-4548-a71c-6a3ea5b13286)
+
 
 ## Sprint Board Update
 
