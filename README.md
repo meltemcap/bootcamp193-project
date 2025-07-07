@@ -127,9 +127,9 @@ Tüm proje planlama ve süreç yönetimi takibimiz trello üzerinden yapılmakta
 
 **Daily Scrum** : Daily scrum toplantıları genellikle whatsap üzerinden ilerletilmiştir. Genel anlamda neler yaptığımızı ve toplantı planlamalarımızın yer aldığı görüntülere ekteki drive dosyasından ulaşabilirsiniz.
 ![Toplantı ekran görüntüsü](https://github.com/user-attachments/assets/9825e28b-7a47-4e9a-a49f-d8cf09a151e0)
-![IMG_20250707_104729](https://github.com/user-attachments/assets/9d8656c2-1b77-4ece-aae5-27472e659724)
-![IMG_20250707_104858](https://github.com/user-attachments/assets/219c5e22-a29a-4d49-abc7-06783af0c12f)
-![IMG_20250707_110111](https://github.com/user-attachments/assets/695bd5d6-ca06-4548-a71c-6a3ea5b13286)
+
+![IMG_20250707_112459](https://github.com/user-attachments/assets/3d1cda0c-7b51-4db9-b5f1-61fea53dc5b2)
+
 
 
 ## Sprint Board Update
