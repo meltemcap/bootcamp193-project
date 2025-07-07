@@ -1,3 +1,4 @@
+
 # Readlytic Yapay Zeka ve Teknoloji Akademisi 2025 Mezuniyet Bootcampi AI Grup 193 Projesi
 
 ## Takım İsmi & Proje İsmi
@@ -112,6 +113,10 @@ Veri Analizi & Görselleştirme
         ◦ Kullanıcı dostu bir arayüzü ile ses kaydı, metin analizi ve sonuç gösterimi için.
         ◦ Öğretmen, veli ve öğrenci gibi farklı kullanıcılar için sade bir deneyim sunar.
 ---
+## Ürün Akış Diyagramı
+![diyagram](https://github.com/user-attachments/assets/a4fecd9a-a1e1-4f6b-8186-5f9df4585c02)
+
+
 
 ## Proje Yönetimi ve Sprint Raporları
 Tüm proje planlama ve süreç yönetimi takibimiz trello üzerinden yapılmaktadır. 
