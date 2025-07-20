@@ -193,12 +193,14 @@ Sprint 2 kapsamında, model eğitiminde kullanılacak veriler için PostgreSQL v
 Katılımcılar:
 Meltem Çap, Nazlıcan Güvenoğlu, Salih Ekdi, Zeynep Sude İnal
 
-**Sprint Retrospective**
+##Sprint Retrospective
 Sprint 2 süreci genel olarak beklenen verimliliğin altında geçmiştir. Takım içi koordinasyon eksiklikleri ve bireysel yoğunluklar, belirlenen hedeflerin bazılarına ulaşılmasını zorlaştırmıştır. Bu durum, gelecek sprintlerde daha planlı, zaman yönetimine uygun ve aktif bir çalışma disiplinine geçilmesi gerektiğini göstermiştir.
 
 **Teknik Gelişmeler**
 -PostgreSQL veritabanı başarıyla oluşturulmuş, eğitim verileri için temel yapı hazırlanmıştır.
+
 -FastAPI geliştirmelerinde önemli ilerleme kaydedilmiş, temel endpoint yapıları oluşturulmuştur.
+
 -Kullanılacak NLP, MVP gibi teknolojilere dair teknik araştırma yapılmıştır.
 
 **Değerlendirmeler ve Kararlar**
