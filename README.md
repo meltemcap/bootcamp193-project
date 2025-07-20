@@ -178,23 +178,56 @@ Tüm proje planlama ve süreç yönetimi takibimiz trello üzerinden yapılmakta
 
 ## Sprint 2 Raporu
 
-**Daily Scrum**: Bu sprint sürecinde ekip üyelerinin yoğunlukları nedeniyle iletişim ağırlıklı olarak Whatsapp üzerinden sürdürülmüştür. Ekip içi koordinasyonu sağlamak adına bir kez Google Meet üzerinden toplantı gerçekleştirilmiştir. Toplantıda kullanılacak veritabanı türü ve API yapısı üzerine fikir alışverişi yapılmış, projenin teknik temeli üzerine ortak bir anlayış oluşturulmuştur.
+**Sprint Notları** : Sprint 2’nin temel amacı, uygulamanın minimum çalışabilir haline (MVP) yaklaşmak için model eğitimi sürecine zemin hazırlamak ve teknik altyapının kurulumuna başlamaktı. Bu kapsamda veritabanı bağlantıları ve temel backend yapısı önceliklendirildi. Sprint 2 süresince teknik ilerleme sağlansa da planlanan hedeflerin bazıları zaman yönetimi kaynaklı eksik kaldı. PostgreSQL veritabanı ve FastAPI altyapısı büyük ölçüde tamamlandı. Sprint sonunda yapılan retrospective toplantısında iletişim ve düzenli ilerleme eksikliği nedeniyle sprintin beklenen verimlilikte geçmediği tespit edilmiştir. Bir sonraki sprint için daha sistematik bir süreç planlanmıştır
 
-Kullanılacak veritabanı oluşturuldu.
+**Sprint için Tahmin Edilen Puan** : 33
+
+**Puan Tamamlama Mantığı** : Teknik görevler tamamlanmasına rağmen planlama eksikleri ve zaman kayıpları nedeniyle ekip içi öz değerlendirmede bu sprintin verimsiz geçtiği belirtilmiştir ancak puanlandırma görev bazlı olduğu için hedef puan tamamlanmıştır.
+
+**Daily Scrum**: Bu sprint sürecinde ekip üyelerinin yoğunlukları nedeniyle iletişim ağırlıklı olarak Whatsapp üzerinden sürdürülmüştür. Ekip içi koordinasyonu sağlamak adına bir kez Google Meet üzerinden toplantı gerçekleştirilmiştir. Toplantıda kullanılacak veritabanı türü ve API yapısı üzerine fikir alışverişi yapılmış, projenin teknik temeli üzerine ortak bir anlayış oluşturulmuştur.
+![WhatsApp Görsel 2025-07-20 saat 23 03 45_629411e2](https://github.com/user-attachments/assets/edc3235f-bea3-43a8-997f-bfc401bb5fc4)
+
+## Sprint Board Update
+
+<img width="1848" height="848" alt="Sprint Board Ekran Görüntüsü" src="https://github.com/user-attachments/assets/a065cd86-cc9c-474b-99d4-ee8d96847d2b" />
+
+
+
+**Kullanılacak Veritabanı Görseli**
 ![1db86e16-1073-4764-bae5-5c4a5a4811a6](https://github.com/user-attachments/assets/e61876f4-c343-493f-b2d5-72dc41274b0f)
 
 ![d3de8abe-4a43-4c55-a9b2-1619f76f30e9](https://github.com/user-attachments/assets/1f1559c7-a8f1-46ae-a784-cea7e5e7195d)
 
 ![b32ba85c-1c1b-48c0-b9c7-46fb0ec357ac](https://github.com/user-attachments/assets/dd941af5-e6ab-47a2-80b4-bfc3879655f1)
 
-**Sprint Review:**
-Sprint 2 kapsamında, model eğitiminde kullanılacak veriler için PostgreSQL veritabanı oluşturulmuş ve FastAPI ile yapılan geliştirme çalışmaları büyük ölçüde ilerletilmiştir. Sprint sonunda ekip bir araya gelerek süreci değerlendirmiştir. Genel olarak bu sprintin beklenen verimlilikte geçmediği görüşü paylaşılmış; bundan sonraki sprintlerde daha planlı, düzenli ve hedef odaklı bir çalışma yaklaşımının benimsenmesi gerektiğine karar verilmiştir.
+## Sprint Review 
+Sprint 2 kapsamında, model eğitiminde kullanılacak veriler için PostgreSQL veritabanı oluşturulmuş ve FastAPI ile yapılan geliştirme çalışmaları büyük ölçüde ilerletilmiştir. Sprint sonunda ekip bir araya gelerek süreci değerlendirmiştir. Genel olarak bu sprintin beklenen verimlilikte geçmediği görüşü paylaşılmış; bundan sonraki sprintlerde daha planlı, düzenli ve hedef odaklı bir çalışma yaklaşımının benimsenmesi gerektiğine karar verilmiştir. Bir sonraki sprintte :
+
+- Günlük hedef takibi artırılacak.
+
+- Sprint Planlama belgeleri netleştirilecek.
+
+- GitHub, Trello ve Notion/Docs gibi araçlar düzenli güncellenecek.
 
 Katılımcılar:
 Meltem Çap, Nazlıcan Güvenoğlu, Salih Ekdi, Zeynep Sude İnal
 
 ## Sprint Retrospective
 Sprint 2 süreci genel olarak beklenen verimliliğin altında geçmiştir. Takım içi koordinasyon eksiklikleri ve bireysel yoğunluklar, belirlenen hedeflerin bazılarına ulaşılmasını zorlaştırmıştır. Bu durum, gelecek sprintlerde daha planlı, zaman yönetimine uygun ve aktif bir çalışma disiplinine geçilmesi gerektiğini göstermiştir.
+
+**İyi Yönlerimiz** :
+
+- Veri altyapısı kuruldu, model eğitimi için zemin hazırlandı.
+
+- Ekip içi sorumluluklar daha belirgin hale gelmeye başladı.
+
+**Geliştirmemiz Gereken Yönler** :
+
+- Teknik ilerleme oldu ancak planlanan hedeflerin tamamı yetişmedi.
+
+- Günlük iletişim ve iş paylaşımı eksikti.
+
+- Önceliklendirme konusunda daha dikkatli olunması gerekiyor.
 
 **Teknik Gelişmeler**
 
