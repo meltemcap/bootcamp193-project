@@ -178,3 +178,42 @@ Tüm proje planlama ve süreç yönetimi takibimiz trello üzerinden yapılmakta
 
 ## Sprint 2 Raporu
 
+**Daily Scrum**: Bu sprint sürecinde ekip üyelerinin yoğunlukları nedeniyle iletişim ağırlıklı olarak Whatsapp üzerinden sürdürülmüştür. Ekip içi koordinasyonu sağlamak adına bir kez Google Meet üzerinden toplantı gerçekleştirilmiştir. Toplantıda kullanılacak veritabanı türü ve API yapısı üzerine fikir alışverişi yapılmış, projenin teknik temeli üzerine ortak bir anlayış oluşturulmuştur.
+
+Kullanılacak veritabanı oluşturuldu.
+![1db86e16-1073-4764-bae5-5c4a5a4811a6](https://github.com/user-attachments/assets/e61876f4-c343-493f-b2d5-72dc41274b0f)
+
+![d3de8abe-4a43-4c55-a9b2-1619f76f30e9](https://github.com/user-attachments/assets/1f1559c7-a8f1-46ae-a784-cea7e5e7195d)
+
+![b32ba85c-1c1b-48c0-b9c7-46fb0ec357ac](https://github.com/user-attachments/assets/dd941af5-e6ab-47a2-80b4-bfc3879655f1)
+
+**Sprint Review:**
+Sprint 2 kapsamında, model eğitiminde kullanılacak veriler için PostgreSQL veritabanı oluşturulmuş ve FastAPI ile yapılan geliştirme çalışmaları büyük ölçüde ilerletilmiştir. Sprint sonunda ekip bir araya gelerek süreci değerlendirmiştir. Genel olarak bu sprintin beklenen verimlilikte geçmediği görüşü paylaşılmış; bundan sonraki sprintlerde daha planlı, düzenli ve hedef odaklı bir çalışma yaklaşımının benimsenmesi gerektiğine karar verilmiştir.
+
+Katılımcılar:
+Meltem Çap, Nazlıcan Güvenoğlu, Salih Ekdi, Zeynep Sude İnal
+
+**Sprint Retrospective**
+Sprint 2 süreci genel olarak beklenen verimliliğin altında geçmiştir. Takım içi koordinasyon eksiklikleri ve bireysel yoğunluklar, belirlenen hedeflerin bazılarına ulaşılmasını zorlaştırmıştır. Bu durum, gelecek sprintlerde daha planlı, zaman yönetimine uygun ve aktif bir çalışma disiplinine geçilmesi gerektiğini göstermiştir.
+
+**Teknik Gelişmeler**
+-PostgreSQL veritabanı başarıyla oluşturulmuş, eğitim verileri için temel yapı hazırlanmıştır.
+-FastAPI geliştirmelerinde önemli ilerleme kaydedilmiş, temel endpoint yapıları oluşturulmuştur.
+-Kullanılacak NLP, MVP gibi teknolojilere dair teknik araştırma yapılmıştır.
+
+**Değerlendirmeler ve Kararlar**
+
+Süreç içinde iletişimin daha düzenli ve yazılı olması gerektiği vurgulanmıştır.
+Görevlerin açık ve ölçülebilir şekilde dağıtılması gerektiği belirlenmiştir.
+Bir sonraki sprintte haftalık görev kontrolü ve bireysel ilerleme takibi yapılmasına karar verilmiştir.
+Takım, yaşanan aksaklıklardan çıkarılan derslerle birlikte bir sonraki sprintte daha odaklı ve üretken bir çalışma süreci hedeflemektedir.
+
+
+
+
+
+
+
+
+
+
