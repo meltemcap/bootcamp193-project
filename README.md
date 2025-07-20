@@ -202,6 +202,12 @@ Sprint 2 süreci genel olarak beklenen verimliliğin altında geçmiştir. Takı
 
 -FastAPI geliştirmelerinde önemli ilerleme kaydedilmiş, temel endpoint yapıları oluşturulmuştur.
 
+-API'ın postmandeki görseli ve mobil uygulama geliştirme çalışmalarına başlanmıştır.
+
+![WhatsApp Image 2025-07-20 at 21 24 42](https://github.com/user-attachments/assets/95ad8e8e-9821-4d45-8f29-1d286edaa398)
+
+![WhatsApp Image 2025-07-20 at 21 25 04](https://github.com/user-attachments/assets/01fc8ebb-5b1c-46b2-8369-8e44aa5cbb80)
+
 -Kullanılacak NLP, MVP gibi teknolojilere dair teknik araştırma yapılmıştır.
 
 **Değerlendirmeler ve Kararlar**
