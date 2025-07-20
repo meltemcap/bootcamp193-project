@@ -175,3 +175,6 @@ Tüm proje planlama ve süreç yönetimi takibimiz trello üzerinden yapılmakta
 - Speech-to test API testleri
 - Veri analizi altyapısının kurulması
 - MVP’nin ilk işlevsel halinin çıkarılması
+
+## Sprint 2 Raporu
+
