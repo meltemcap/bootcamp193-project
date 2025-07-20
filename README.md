@@ -193,10 +193,11 @@ Sprint 2 kapsamında, model eğitiminde kullanılacak veriler için PostgreSQL v
 Katılımcılar:
 Meltem Çap, Nazlıcan Güvenoğlu, Salih Ekdi, Zeynep Sude İnal
 
-##Sprint Retrospective
+## Sprint Retrospective
 Sprint 2 süreci genel olarak beklenen verimliliğin altında geçmiştir. Takım içi koordinasyon eksiklikleri ve bireysel yoğunluklar, belirlenen hedeflerin bazılarına ulaşılmasını zorlaştırmıştır. Bu durum, gelecek sprintlerde daha planlı, zaman yönetimine uygun ve aktif bir çalışma disiplinine geçilmesi gerektiğini göstermiştir.
 
 **Teknik Gelişmeler**
+
 -PostgreSQL veritabanı başarıyla oluşturulmuş, eğitim verileri için temel yapı hazırlanmıştır.
 
 -FastAPI geliştirmelerinde önemli ilerleme kaydedilmiş, temel endpoint yapıları oluşturulmuştur.
@@ -205,10 +206,13 @@ Sprint 2 süreci genel olarak beklenen verimliliğin altında geçmiştir. Takı
 
 **Değerlendirmeler ve Kararlar**
 
-Süreç içinde iletişimin daha düzenli ve yazılı olması gerektiği vurgulanmıştır.
-Görevlerin açık ve ölçülebilir şekilde dağıtılması gerektiği belirlenmiştir.
-Bir sonraki sprintte haftalık görev kontrolü ve bireysel ilerleme takibi yapılmasına karar verilmiştir.
-Takım, yaşanan aksaklıklardan çıkarılan derslerle birlikte bir sonraki sprintte daha odaklı ve üretken bir çalışma süreci hedeflemektedir.
+-Süreç içinde iletişimin daha düzenli ve yazılı olması gerektiği vurgulanmıştır.
+
+-Görevlerin açık ve ölçülebilir şekilde dağıtılması gerektiği belirlenmiştir.
+
+-Bir sonraki sprintte haftalık görev kontrolü ve bireysel ilerleme takibi yapılmasına karar verilmiştir.
+
+-Takım, yaşanan aksaklıklardan çıkarılan derslerle birlikte bir sonraki sprintte daha odaklı ve üretken bir çalışma süreci hedeflemektedir.
 
 
 
