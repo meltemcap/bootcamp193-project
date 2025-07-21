@@ -23,18 +23,6 @@ def get_db():
     finally:
         db.close()
 
-# # API'nin dışarıya döneceği model (JSON olarak)
-# class ParagraphResponse(BaseModel):
-#     id: int
-#     text: str
-#     difficulty_level: str
-#     language_code: str
-#     created_at: datetime
-
-#     class Config:
-#         from_attributes = True
-
-
 # Paragrafları dönen endpoint
 @app.get("/paragraphs", response_model=List[ParagraphResponse])
 def get_paragraphs_endpoint(db: Session = Depends(get_db)):
