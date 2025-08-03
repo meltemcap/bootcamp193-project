@@ -253,7 +253,7 @@ Sprint 2 süreci genel olarak beklenen verimliliğin altında geçmiştir. Takı
 
 -Takım, yaşanan aksaklıklardan çıkarılan derslerle birlikte bir sonraki sprintte daha odaklı ve üretken bir çalışma süreci hedeflemektedir.
 
-##Sprint 3 Raporu
+## Sprint 3 Raporu
 
 Sprint Notları : Bu sprint kapsamında; yapay zekâ modelinin eğitilmesi (NLP modeli), Flutter arayüzlerinin tamamlanması ve APK dosyasının oluşturulması hedeflenmiştir. Kullanıcının sesli giriş yapabilmesini sağlayan ve konuşmayı metne dönüştüren sistem, Flutter tabanlı mobil uygulamaya başarıyla entegre edilmiştir. Bu entegrasyon sayesinde uygulama, sesli komutları yazılı forma dönüştürerek ilgili modüllerde kullanılabilir hâle getirilmiştir.
 
@@ -267,13 +267,26 @@ Görevlerin kapsamı, teknik karmaşıklığı ve sprint süresi göz önünde b
 
 Daily Scrum : Daily scrum toplantıları genellikle whatsap üzerinden ilerletilmiştir.
 
+## Sprint Board Update
+
+<img width="1151" height="383" alt="Ekran görüntüsü 2025-08-03 185242" src="https://github.com/user-attachments/assets/ebec00bb-fc9f-4d6f-af4d-273491fa69cb" />
+
+Yapay zeka eğitimi %96 başarıyla tamamlanmıştır.
 
 
 
+![WhatsApp Image 2025-08-03 at 18 56 38](https://github.com/user-attachments/assets/7c48b718-364b-41c1-945c-74bdea96fb79)
 
 
+![WhatsApp Image 2025-08-03 at 18 56 38 (1)](https://github.com/user-attachments/assets/18721f20-96df-45dd-a42b-05e6a77df893)
 
+App geliştirme ve Flutter ile frontend tasarımı tamamlanmıştır.
 
+##Sprint Review 
+Sprint 3 kapsamında; mobil uygulamanın (APK) oluşturulması, sesi metne dönüştüren sistemin entegrasyonu, Flutter ile arayüz tasarımı ve yapay zekâ modelinin uygulamaya entegre edilmesi hedeflenmiştir. Sesli giriş sisteminin entegrasyonu ve arayüz geliştirme çalışmaları başarıyla tamamlanmış; uygulamanın temel işlevleri büyük oranda şekillendirilmiştir. Ancak, yapay zekâ modelinin mobil uygulamaya entegrasyonu sürecinde yaşanan teknik sorunlar nedeniyle bu hedef gerçekleştirilememiştir.
+Bu durum, bootcamp sürecinin beklendiği verimlilikte tamamlanamamasına neden olmuştur. 
 
+Sprint Retrospective – Sprint 3
+Sprint 3 genel olarak verimsiz bir şekilde tamamlanmıştır. Yapay zekâ entegrasyonu gibi kritik bir görev yerine getirilememiş; bunun başlıca nedenleri arasında takım içi iletişim eksiklikleri, bireysel yoğunluklar ve teknik entegrasyon zorlukları yer almıştır.
 
 
