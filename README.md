@@ -282,11 +282,12 @@ Yapay zeka eğitimi %96 başarıyla tamamlanmıştır.
 
 App geliştirme ve Flutter ile frontend tasarımı tamamlanmıştır.
 
-##Sprint Review 
+## Sprint Review 
 Sprint 3 kapsamında; mobil uygulamanın (APK) oluşturulması, sesi metne dönüştüren sistemin entegrasyonu, Flutter ile arayüz tasarımı ve yapay zekâ modelinin uygulamaya entegre edilmesi hedeflenmiştir. Sesli giriş sisteminin entegrasyonu ve arayüz geliştirme çalışmaları başarıyla tamamlanmış; uygulamanın temel işlevleri büyük oranda şekillendirilmiştir. Ancak, yapay zekâ modelinin mobil uygulamaya entegrasyonu sürecinde yaşanan teknik sorunlar nedeniyle bu hedef gerçekleştirilememiştir.
 Bu durum, bootcamp sürecinin beklendiği verimlilikte tamamlanamamasına neden olmuştur. 
 
 Sprint Retrospective – Sprint 3
 Sprint 3 genel olarak verimsiz bir şekilde tamamlanmıştır. Yapay zekâ entegrasyonu gibi kritik bir görev yerine getirilememiş; bunun başlıca nedenleri arasında takım içi iletişim eksiklikleri, bireysel yoğunluklar ve teknik entegrasyon zorlukları yer almıştır.
+
 
 
