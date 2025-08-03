@@ -253,6 +253,21 @@ Sprint 2 süreci genel olarak beklenen verimliliğin altında geçmiştir. Takı
 
 -Takım, yaşanan aksaklıklardan çıkarılan derslerle birlikte bir sonraki sprintte daha odaklı ve üretken bir çalışma süreci hedeflemektedir.
 
+##Sprint 3 Raporu
+
+Sprint Notları : Bu sprint kapsamında; yapay zekâ modelinin eğitilmesi (NLP modeli), Flutter arayüzlerinin tamamlanması ve APK dosyasının oluşturulması hedeflenmiştir. Kullanıcının sesli giriş yapabilmesini sağlayan ve konuşmayı metne dönüştüren sistem, Flutter tabanlı mobil uygulamaya başarıyla entegre edilmiştir. Bu entegrasyon sayesinde uygulama, sesli komutları yazılı forma dönüştürerek ilgili modüllerde kullanılabilir hâle getirilmiştir.
+
+Sprint için Tahmin Edilen Puan : 30
+
+Puan Tamamlama Mantığı : Sprint 3’te; NLP modelinin geliştirilmesi, Flutter ile frontend arayüzlerinin oluşturulması, ses giriş sisteminin entegre edilmesi ve APK dosyasının üretilmesi hedeflenmiştir. Ancak, yapay zekâ sisteminin mobil uygulamaya entegrasyonu sırasında teknik sorunlarla karşılaşılmış ve bu entegrasyon başarıyla tamamlanamamıştır.
+
+Bu sprint sürecinde, takım üyeleri arasındaki iletişim eksikliği ve bireysel yoğunluklar gibi faktörler de süreci olumsuz etkilemiş, proje yapay zekâ entegresi olmadan tamamlanmak durumunda kalmıştır.
+
+Görevlerin kapsamı, teknik karmaşıklığı ve sprint süresi göz önünde bulundurularak bu sprint için hedeflenen puan 30 olarak belirlenmiştir. Puanlama süreci, görevlerin zorluk seviyesi ve belirsizlik derecelerine göre değerlendirilmiştir.
+
+Daily Scrum : Daily scrum toplantıları genellikle whatsap üzerinden ilerletilmiştir.
+
+
 
 
 
